@@ -10,15 +10,25 @@
 </div>
 <br>
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="height: 40px;">
+  <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="height: 40px;">
+  </a>
   &nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="height: 40px;">
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="height: 40px;">
+  </a>
   &nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="height: 40px;">
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="height: 40px;">
+  </a>
   &nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height: 40px;">
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height: 40px;">
+  </a>
   &nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="height: 40px;">
+  <a href="https://docs.python.org/3/" target="blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="height: 40px;">
+  </a>
 </div>
 <br>
 <div align="center">
