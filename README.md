@@ -29,6 +29,10 @@
   <a href="https://docs.python.org/3/" target="blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="height: 40px;">
   </a>
+  &nbsp
+  <a href="https://nodejs.org/en/docs/" target="blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="height: 40px;">
+  </a>
 </div>
 <br>
 <div align="center">
