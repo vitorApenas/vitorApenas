@@ -1,7 +1,7 @@
 <div>
   <h1>Eai? Eu sou o Vitor</h1>
   <p>Sou um estudante e entusiasta de tecnologia e segurança da informação</p>
-  <p>Provavelmente a maioria dos meus repositórios serão de Desenvolvimento Web. Fazer o quê? O cara curte isso</p>
+  <p>Provavelmente a maioria dos meus repositórios serão de Desenvolvimento Web. Fazer o quê? Eu curto isso</p>
 </div>
 <br>
 <div align="center">
@@ -10,8 +10,8 @@
 </div>
 <br>
 <div align="center">
-  <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="height: 40px;">
+  <a href="https://www.php.net/docs.php" target="blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="height: 40px;">
   </a>
   &nbsp
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="blank">
