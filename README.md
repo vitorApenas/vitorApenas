@@ -42,7 +42,7 @@
   <a href="https://twitter.com/vitordotcom" target="blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" style="height: 30px;">
   </a>
-  <a href="https://wa.me/5511933665653" target="blank">
+  <a href="https://wa.me/5511976534383" target="blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" style="height: 30px;">
   </a>
 </div>
